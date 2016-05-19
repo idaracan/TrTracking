@@ -1,0 +1,27 @@
+html, body { height: 100%; margin: 0; padding: 0; }
+#googleMap { height: 90%; position: relative;}
+
+#over_map { 
+	position: absolute; bottom: 0px; left: 0px; z-index: 99; 
+	background-color: #178FE5;
+	height:10%;
+	width: 100%;
+	padding: 0;
+	border: 0px solid gray;
+	margin: 0;
+}
+#slider {
+    width: 50%;
+    position:relative;
+    left: 25%;
+}
+
+.custom-date-style {
+	background-color: red !important;
+}
+
+.input{	
+}
+.input-wide{
+	width: 500px;
+}
